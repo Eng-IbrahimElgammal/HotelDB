@@ -1,0 +1,17 @@
+[
+  { "employeeId": 1, "name": "Mohamed Ali", "position": "Receptionist", "shift": "Morning", "date": "2024-06-01" },
+  { "employeeId": 2, "name": "Hanan Mohamed", "position": "Housekeeper", "shift": "Afternoon", "date": "2024-06-01" },
+  { "employeeId": 3, "name": "Ahmed Youssef", "position": "Manager", "shift": "Morning", "date": "2024-06-01" },
+  { "employeeId": 4, "name": "Fatma Hassan", "position": "Cook", "shift": "Evening", "date": "2024-06-01" },
+  { "employeeId": 5, "name": "Khaled Ibrahim", "position": "Security", "shift": "Night", "date": "2024-06-01" },
+  { "employeeId": 6, "name": "Nadia Mostafa", "position": "Receptionist", "shift": "Afternoon", "date": "2024-06-01" },
+  { "employeeId": 7, "name": "Omar El-Sayed", "position": "Housekeeper", "shift": "Morning", "date": "2024-06-01" },
+  { "employeeId": 8, "name": "Laila Abdelrahman", "position": "Manager", "shift": "Evening", "date": "2024-06-01" },
+  { "employeeId": 9, "name": "Youssef Ahmed", "position": "Cook", "shift": "Night", "date": "2024-06-01" },
+  { "employeeId": 10, "name": "Amira Fathy", "position": "Security", "shift": "Morning", "date": "2024-06-01" },
+  { "employeeId": 11, "name": "Khaled Hossam", "position": "Receptionist", "shift": "Night", "date": "2024-06-01" },
+  { "employeeId": 12, "name": "Mona Ashraf", "position": "Housekeeper", "shift": "Evening", "date": "2024-06-01" },
+  { "employeeId": 13, "name": "Hassan Ismail", "position": "Manager", "shift": "Night", "date": "2024-06-01" },
+  { "employeeId": 14, "name": "Fatma Saad", "position": "Cook", "shift": "Morning", "date": "2024-06-01" },
+  { "employeeId": 15, "name": "Tamer Youssef", "position": "Security", "shift": "Afternoon", "date": "2024-06-01" }
+]

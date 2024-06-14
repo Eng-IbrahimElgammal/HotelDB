@@ -1,0 +1,17 @@
+[
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e00" }, "roomNumber": 101, "type": "Single", "available": true, "price": 100, "amenities": ["Wi-Fi", "TV"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e01" }, "roomNumber": 102, "type": "Double", "available": false, "price": 150, "amenities": ["Wi-Fi", "TV", "Mini-Bar"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e02" }, "roomNumber": 103, "type": "Suite", "available": true, "price": 250, "amenities": ["Wi-Fi", "TV", "Mini-Bar", "Jacuzzi"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e03" }, "roomNumber": 104, "type": "Single", "available": true, "price": 100, "amenities": ["Wi-Fi", "TV"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e04" }, "roomNumber": 105, "type": "Double", "available": true, "price": 150, "amenities": ["Wi-Fi", "TV", "Mini-Bar"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e05" }, "roomNumber": 106, "type": "Suite", "available": false, "price": 250, "amenities": ["Wi-Fi", "TV", "Mini-Bar", "Jacuzzi"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e06" }, "roomNumber": 107, "type": "Single", "available": true, "price": 100, "amenities": ["Wi-Fi", "TV"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e07" }, "roomNumber": 108, "type": "Double", "available": true, "price": 150, "amenities": ["Wi-Fi", "TV", "Mini-Bar"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e08" }, "roomNumber": 109, "type": "Suite", "available": true, "price": 250, "amenities": ["Wi-Fi", "TV", "Mini-Bar", "Jacuzzi"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e09" }, "roomNumber": 110, "type": "Single", "available": false, "price": 100, "amenities": ["Wi-Fi", "TV"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e0a" }, "roomNumber": 111, "type": "Double", "available": true, "price": 150, "amenities": ["Wi-Fi", "TV", "Mini-Bar"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e0b" }, "roomNumber": 112, "type": "Suite", "available": true, "price": 250, "amenities": ["Wi-Fi", "TV", "Mini-Bar", "Jacuzzi"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e0c" }, "roomNumber": 113, "type": "Single", "available": true, "price": 100, "amenities": ["Wi-Fi", "TV"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e0d" }, "roomNumber": 114, "type": "Double", "available": false, "price": 150, "amenities": ["Wi-Fi", "TV", "Mini-Bar"] },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e0e" }, "roomNumber": 115, "type": "Suite", "available": true, "price": 250, "amenities": ["Wi-Fi", "TV", "Mini-Bar", "Jacuzzi"] }
+]

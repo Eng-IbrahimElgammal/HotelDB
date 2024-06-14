@@ -1,0 +1,17 @@
+[
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e1e" }, "name": "Mohamed Ali", "position": "Receptionist", "shift": "Morning", "contact": "01234567890" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e1f" }, "name": "Hanan Mohamed", "position": "Housekeeper", "shift": "Afternoon", "contact": "01234567891" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e20" }, "name": "Ahmed Youssef", "position": "Manager", "shift": "Morning", "contact": "01234567892" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e21" }, "name": "Fatma Hassan", "position": "Cook", "shift": "Evening", "contact": "01234567893" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e22" }, "name": "Khaled Ibrahim", "position": "Security", "shift": "Night", "contact": "01234567894" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e23" }, "name": "Nadia Mostafa", "position": "Receptionist", "shift": "Afternoon", "contact": "01234567895" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e24" }, "name": "Omar El-Sayed", "position": "Housekeeper", "shift": "Morning", "contact": "01234567896" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e25" }, "name": "Laila Abdelrahman", "position": "Manager", "shift": "Evening", "contact": "01234567897" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e26" }, "name": "Youssef Ahmed", "position": "Cook", "shift": "Night", "contact": "01234567898" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e27" }, "name": "Amira Fathy", "position": "Security", "shift": "Morning", "contact": "01234567899" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e28" }, "name": "Khaled Hossam", "position": "Receptionist", "shift": "Night", "contact": "01234567900" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e29" }, "name": "Mona Ashraf", "position": "Housekeeper", "shift": "Evening", "contact": "01234567901" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e2a" }, "name": "Hassan Ismail", "position": "Manager", "shift": "Night", "contact": "01234567902" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e2b" }, "name": "Fatma Saad", "position": "Cook", "shift": "Morning", "contact": "01234567903" },
+  { "_id": { "$oid": "60d5f1f4f4d3b1a7747d9e2c" }, "name": "Tamer Youssef", "position": "Security", "shift": "Afternoon", "contact": "01234567904" }
+]
