@@ -1,0 +1,18 @@
+
+[
+  { "serviceName": "Room Service", "description": "Food and beverages delivered to guest rooms", "cost": 20 },
+  { "serviceName": "Laundry", "description": "Laundry and dry-cleaning services", "cost": 15 },
+  { "serviceName": "Spa", "description": "Full body massage and spa treatments", "cost": 50 },
+  { "serviceName": "Gym", "description": "Access to the hotel gym", "cost": 10 },
+  { "serviceName": "Wi-Fi", "description": "High-speed internet access", "cost": 5 },
+  { "serviceName": "Airport Shuttle", "description": "Transport to and from the airport", "cost": 25 },
+  { "serviceName": "Concierge", "description": "Personalized assistance and bookings", "cost": 30 },
+  { "serviceName": "Parking", "description": "Secure on-site parking", "cost": 10 },
+  { "serviceName": "Breakfast", "description": "Buffet breakfast in the dining area", "cost": 15 },
+  { "serviceName": "Dinner", "description": "Three-course dinner in the restaurant", "cost": 40 },
+  { "serviceName": "Mini-Bar", "description": "Selection of beverages and snacks", "cost": 20 },
+  { "serviceName": "Housekeeping", "description": "Daily room cleaning service", "cost": 10 },
+  { "serviceName": "Car Rental", "description": "On-site car rental service", "cost": 35 },
+  { "serviceName": "Tours", "description": "Guided city tours and excursions", "cost": 60 },
+  { "serviceName": "Business Center", "description": "Access to business center facilities", "cost": 25 }
+]
