@@ -14,7 +14,7 @@ HotelDB is a comprehensive hotel management database system developed using Mong
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/HotelDB.git
+    git clone https://github.com/Eng-IbrahimElgammal/HotelDB.git
     ```
 
 2. Navigate to the cloned directory:
